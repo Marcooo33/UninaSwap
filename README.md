@@ -53,7 +53,7 @@ Le categorie di oggetti supportate includono:
    git clone [https://github.com/marcooo33/uninaswap.git](https://github.com/marcooo33/uninaswap.git)
    ```
 
-2. **Compilazione ed Esecuzione**: Il progetto è un modulo Java. Puoi compilarlo ed eseguirlo tramite riga di comando o importarlo nel tuo IDE preferito. Punto di ingresso dell'applicazione: ``src/gui/Main.java``
+2. **Compilazione ed Esecuzione**: Il progetto è un modulo Java. Puoi compilarlo ed eseguirlo tramite riga di comando o importarlo nel tuo IDE preferito. Punto di ingresso dell'applicazione: ``src/controller/Controller.java``
 
 
 
