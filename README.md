@@ -31,8 +31,8 @@ Le categorie di oggetti supportate includono:
 
 ## 🛠️ Stack Tecnologico
 
-* **Linguaggio**: Java (Versioni supportate: 11+)
-* **GUI Framework**: Java Swing (con componenti personalizzati per un look & feel moderno).
+* **Linguaggio**: Java
+* **GUI Framework**: Java Swing (con componenti personalizzati per un look moderno).
 * **Database**: Supabase (PostgreSQL).
 * **Architettura**: Pattern MVC (Model-View-Controller) con DAO (Data Access Object) per la persistenza.
 * **Dipendenze Esterne**:
@@ -40,24 +40,6 @@ Le categorie di oggetti supportate includono:
     * `java.sql`: Per la connettività JDBC.
     * `java.desktop`: Per i componenti dell'interfaccia grafica.
 
-## 🚀 Guida all'Installazione
-
-### Prerequisiti
-* **Java JDK** (versione 11 o superiore).
-* **Git** per clonare il repository.
-* Una connessione internet attiva (per il database cloud).
-
-### Setup
-1. **Clona il repository**:
-   ```bash
-   git clone [https://github.com/marcooo33/uninaswap.git](https://github.com/marcooo33/uninaswap.git)
-   ```
-
-2. **Compilazione ed Esecuzione**: Il progetto è un modulo Java. Puoi compilarlo ed eseguirlo tramite riga di comando o importarlo nel tuo IDE preferito. Punto di ingresso dell'applicazione: ``src/controller/Controller.java``
-
-
-
-
-
-
-
+## ⚠️ Stato del Progetto:
+Questo progetto è stato sviluppato come esame universitario per dimostrare l'uso della **Programmazione a Oggetti**.
+L'istanza del database remoto (su Supabase) è attualmente **in pausa**. Di conseguenza, l'applicazione non può essere eseguita "live" senza configurare un database locale.
